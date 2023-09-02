@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 
-public class CounterTest {
+public class NhnMartTest {
     private final FoodStand foodStand = new FoodStand();
 
     public void prepareMart() {
